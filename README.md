@@ -2,6 +2,8 @@
 
 A modern, responsive movie discovery application built with React.js that allows users to browse trending movies, search for specific titles, and explore movie details using the TMDB API.
 
+https://movieflix-umber.vercel.app/
+
 ![Movie App Demo](https://img.shields.io/badge/React-18.0+-blue?logo=react) 
 ![Vite](https://img.shields.io/badge/Vite-5.0+-646CFF?logo=vite) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0+-38B2AC?logo=tailwind-css) 
